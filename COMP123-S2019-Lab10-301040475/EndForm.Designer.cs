@@ -34,7 +34,7 @@
             // 
             // BackButton
             // 
-            this.BackButton.Location = new System.Drawing.Point(12, 454);
+            this.BackButton.Location = new System.Drawing.Point(12, 523);
             this.BackButton.Name = "BackButton";
             this.BackButton.Size = new System.Drawing.Size(155, 65);
             this.BackButton.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             this.WelcomeLabel.AutoSize = true;
             this.WelcomeLabel.Cursor = System.Windows.Forms.Cursors.AppStarting;
-            this.WelcomeLabel.Location = new System.Drawing.Point(232, 234);
+            this.WelcomeLabel.Location = new System.Drawing.Point(237, 264);
             this.WelcomeLabel.Name = "WelcomeLabel";
             this.WelcomeLabel.Size = new System.Drawing.Size(577, 63);
             this.WelcomeLabel.TabIndex = 1;
@@ -57,7 +57,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(31F, 61F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGray;
-            this.ClientSize = new System.Drawing.Size(774, 531);
+            this.ClientSize = new System.Drawing.Size(800, 600);
             this.ControlBox = false;
             this.Controls.Add(this.WelcomeLabel);
             this.Controls.Add(this.BackButton);

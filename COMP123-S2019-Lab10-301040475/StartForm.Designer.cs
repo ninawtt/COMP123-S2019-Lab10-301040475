@@ -37,7 +37,7 @@
             // 
             this.WelcomeLabel.AutoSize = true;
             this.WelcomeLabel.Cursor = System.Windows.Forms.Cursors.AppStarting;
-            this.WelcomeLabel.Location = new System.Drawing.Point(232, 234);
+            this.WelcomeLabel.Location = new System.Drawing.Point(237, 264);
             this.WelcomeLabel.Name = "WelcomeLabel";
             this.WelcomeLabel.Size = new System.Drawing.Size(595, 63);
             this.WelcomeLabel.TabIndex = 0;
